@@ -1,14 +1,14 @@
 import { useState } from 'react'
-import ColorPicker from './ColorPicker.jsx'
+import ToDo from './ToDo.jsx'
 
 import './App.css'
 
 function App() {
  
-return(
-  <ColorPicker />
-
-)
+  return(
+  
+    <ToDo />
+  )
 
 }
 
